@@ -12,7 +12,7 @@ ChatShare is a web development project focused on image sharing.
 
 ## Tech Stack
 
-Add the technologies used in your actual project.
+Add file → Upload files
 
 ## Screenshots
 
