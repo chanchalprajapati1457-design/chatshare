@@ -14,10 +14,6 @@ ChatShare is a web development project focused on image sharing.
 
 Add file → Upload files
 
-## Screenshots
-
-Screenshots of the running application will be added here.
-
 ## Getting Started
 
 1. Clone this repository.
